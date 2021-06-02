@@ -31,14 +31,9 @@ I am __Bee Eng__, currently attending RISE Programme by Digital BCG Academy, cor
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### 
+<br>
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases
 
 <!-- EXPERIENCE Section Ends -->
 
