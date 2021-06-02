@@ -81,6 +81,7 @@ RISE Programme by Digital BCG Academy
 Business & Data Analytics
 
 Top 2 teams in Digital Essentials Project
+
 Top 3 teams in Hackathon 
 <!-- FEATURED Section Ends -->
 
